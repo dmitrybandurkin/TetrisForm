@@ -1,0 +1,6 @@
+E:\Lessons\lessons C#\TetrisForm\TetrisForm\bin\Debug\TetrisForm.exe.config
+E:\Lessons\lessons C#\TetrisForm\TetrisForm\bin\Debug\TetrisForm.exe
+E:\Lessons\lessons C#\TetrisForm\TetrisForm\bin\Debug\TetrisForm.pdb
+E:\Lessons\lessons C#\TetrisForm\TetrisForm\obj\Debug\TetrisForm.csprojAssemblyReference.cache
+E:\Lessons\lessons C#\TetrisForm\TetrisForm\obj\Debug\TetrisForm.exe
+E:\Lessons\lessons C#\TetrisForm\TetrisForm\obj\Debug\TetrisForm.pdb
